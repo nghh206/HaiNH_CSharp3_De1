@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\bin\Debug\net7.0\Context.deps.json
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\bin\Debug\net7.0\Context.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\bin\Debug\net7.0\Context.pdb
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\bin\Debug\net7.0\DomainClass.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\bin\Debug\net7.0\DomainClass.pdb
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.csproj.CopyComplete
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\refint\Context.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\Context.pdb
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\Context\obj\Debug\net7.0\ref\Context.dll

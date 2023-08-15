@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\bin\Debug\net7.0\DomainClass.deps.json
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\bin\Debug\net7.0\DomainClass.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\bin\Debug\net7.0\DomainClass.pdb
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\refint\DomainClass.dll
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\DomainClass.pdb
+C:\Users\Acer\Desktop\Training\hainh_CSharp3_De1\DomainClass\obj\Debug\net7.0\ref\DomainClass.dll
